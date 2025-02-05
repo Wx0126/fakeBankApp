@@ -13,7 +13,7 @@ const account1 = {
   owner: 'LiLi Wang',
   movements: [200, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
   interestRate: 1.2, // %
-  pin: 0715,
+  pin: 1234,
 
   movementsDates: [
     '2019-11-18T21:31:17.178Z',
